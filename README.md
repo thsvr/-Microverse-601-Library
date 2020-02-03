@@ -11,7 +11,7 @@
   </a>
 
   <h3 align="center">Library Project -
-  <a href='https://raw.githack.com/uryelah/-Microverse-601-Library/library/index.html'> Live version</a></h3>
+  <a href='https://raw.githack.com/thsvr/-Microverse-601-Library/development/index.html'> Live version</a></h3>
 
   <p align="center">
     This project is part of the Microverse Javacript Section!
